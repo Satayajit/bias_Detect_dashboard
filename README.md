@@ -53,4 +53,16 @@ Government/public policy data auditing
 ## 📂 Sample Datasets
 
 - [📥 Download Candidate Data Test 2025 (Expanded)](https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/candidate_data_test_2025_expanded.csv)
+  
 - [📥 Download Hiring Data (Annotated)](https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/hiring_data%20(2).csv)
+
+
+![Screenshot 2025-06-11 100304](https://github.com/user-attachments/assets/615a2843-4122-4511-a43a-05163defbde3)
+
+
+
+![Screenshot 2025-06-11 100606](https://github.com/user-attachments/assets/06f5635f-bf55-4a8a-8227-238f83929dc4)
+
+
+
+![Screenshot 2025-06-11 101138](https://github.com/user-attachments/assets/39cfdadf-b5da-41d9-a5b7-9cce88ad651d)
