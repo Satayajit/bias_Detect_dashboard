@@ -50,12 +50,7 @@ Academic research in AI fairness
 Government/public policy data auditing
 
 ## Datasets
-<a href="https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/candidate_data_test_2025_expanded.csv" download>
-  📥 Download Candidate Data Test 2025 (Expanded)
-</a><br>
+## 📂 Sample Datasets
 
-<a href="https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/hiring_data%20(2).csv" download>
-  📥 Download Hiring Data (Annotated)
-</a>
-
-
+- [📥 Download Candidate Data Test 2025 (Expanded)](https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/candidate_data_test_2025_expanded.csv)
+- [📥 Download Hiring Data (Annotated)](https://raw.githubusercontent.com/Satayajit/bias_Detect_dashboard/main/hiring_data%20(2).csv)
