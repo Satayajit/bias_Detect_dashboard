@@ -1,2 +1,28 @@
-# bias_Detect_dashboard
-An AI-powered dashboard for detecting and visualizing bias in datasets, with privacy checks, fairness metrics, and automated reporting.
+# 📊 Bias Detection Dashboard
+
+The Bias Detection Dashboard is an AI-powered web application designed to identify, analyze, and mitigate bias and fairness issues in datasets before deploying machine learning models. Built with Python, Streamlit, Fairlearn, and data visualization libraries, the dashboard provides a visually interactive and user-friendly interface for auditing datasets through automated metrics, bias risk scores, privacy alerts, and downloadable PDF reports.
+
+## 🔍 Key Features
+✅ Bias & Fairness Analysis: Detect disparities across sensitive attributes using Fairlearn and custom fairness metrics.
+
+📊 Interactive Visualizations: Use Seaborn and Matplotlib to explore dataset distribution and fairness outcomes.
+
+🛡️ Privacy Risk Alerts: Automatically flag sensitive columns and provide anonymization suggestions.
+
+📁 Dataset Upload & Cleaning: Upload CSV files, preview data, handle missing values, and preprocess features.
+
+📉 Bias Risk Score: Quantitatively assess bias levels with intuitive scoring and color-coded indicators.
+
+📝 Automated PDF Reports: Export analysis results and visual charts into shareable PDF reports using txt2pdf.
+
+💡 Animated Feedback: Enjoy animated visuals (e.g., flowers or alerts) based on dataset health and modeling readiness.
+
+🔄 Bias Mitigation Tools: Apply reweighing or preprocessing techniques to reduce unfairness in the data.
+
+## 🧰 Tech Stack
+Frontend: Streamlit, HTML, CSS, JavaScript (for interactivity and animations)
+
+Backend: Python (Pandas, NumPy, Fairlearn, Seaborn, Matplotlib, Sklearn)
+
+PDF Engine: txt2pdf for fast and elegant report generation
+
